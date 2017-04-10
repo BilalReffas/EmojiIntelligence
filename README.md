@@ -7,6 +7,11 @@ I used the Playground on macOS.
 I believe in open source I think to push humanity forward you have to open source all the things \o/
 
 ![](http://i.imgur.com/qhweGhT.gif)
+<br>
+<br>
+You can watch the YouTube Video [here](https://www.youtube.com/watch?v=T9pplv7cZ7k)
+<br>
+<br>
 
 ## Abstract Overview
 
@@ -32,6 +37,7 @@ My main goal was to make neural network and machine learning more accessible and
   [@reffas_bilal](https://twitter.com/Reffas_Bilal)
   
   [bilal@luubra.com]()
+  
 
 ### Credits
   [Vincent Esche](https://twitter.com/regexident)
@@ -40,8 +46,13 @@ My main goal was to make neural network and machine learning more accessible and
   
   [Matthijs Hollemans](http://machinethink.net/blog/the-hello-world-of-neural-networks/)
   
+### Thank you 🎉
+
+  If you like this project please leave a star 🌟 here on Github and share it.
+  
 ### License
 
+```
 MIT License
 
 Copyright (c) 2017 Luubra
@@ -63,3 +74,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
