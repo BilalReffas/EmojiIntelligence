@@ -57,6 +57,10 @@ My main goal was to make neural network and machine learning more accessible and
   <br>
   All pieces are handcrafted with a lot of love ❤️ and sent all around the world 🌍. 
   
+### Known issues
+  This projecty is currently only working on macOS. There is a bug on the iPad I already submitted the issue on the Bug Reporter. 
+  I hope Apple will fix this soon.
+
 ### License
 
 ```
