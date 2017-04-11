@@ -46,9 +46,9 @@ My main goal was to make neural network and machine learning more accessible and
 ### Credits
   [Vincent Esche](https://twitter.com/regexident)
   
-  [Per Harald Borgen](https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e)
+  [Per Harald Borgen](https://twitter.com/perborgen)
   
-  [Matthijs Hollemans](http://machinethink.net/blog/the-hello-world-of-neural-networks/)
+  [Matthijs Hollemans](https://twitter.com/mhollemans)
 
 ### Thank you 🎉
 
