@@ -25,6 +25,9 @@ You can watch the YouTube Video [here](https://www.youtube.com/watch?v=T9pplv7cZ
 
 I used this challenge to learn more about neural networks and machine learning.
 A neural network consists of layers, and each layer has neurons. My network has three layers: an input layer, a hidden layer, and an output layer.
+<br><br>
+<img src="http://i.imgur.com/DZh33WL.png" width="250">
+<br><br>
 The input to my network has 64 binary numbers. These inputs are connected to the neurons in the hidden layer. The hidden layer performs some computation and passes the result to the output layer neuron out. This also performs a computation and then outputs a 0 or a 1. The input layer doesn’t actually do anything, they are just placeholders for the input value. Only the neurons in the hidden layer and the output layer perform computations.  The neurons from the input layer are connected to   the neurons in the hidden layer. Likewise, both neurons from the hidden layer are connected to the output layer. These kinds of layers are called fully-connected because every neuron is connected to every neuron in the next layer. Each connection between two neurons has a weight, which is just a number. These weights form the brain of my network. For the activation function in my network, I use the sigmoid function. ![](http://i.imgur.com/Xrhx1wl.png)<br><br>
 Sigmoid is a mathematical function. The sigmoid takes in some number x and converts it into a value between 0 and 1. That is ideal for my purposes, since I am dealing with binary numbers.
 This will turn a linear equation into something that is non-linear. This is important because without this, the network wouldn’t be able to learn any interesting things. 
