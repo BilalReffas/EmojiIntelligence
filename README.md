@@ -8,7 +8,10 @@ I used the Playground on macOS.
 <br>
 I believe in open source I think to push humanity forward you have to open source all the things \o/
 <br>
+<br>
+<br>
 ![](http://imgur.com/0urwCTN.png)
+<br>
 <br>
 ![](http://i.imgur.com/qhweGhT.gif)
 <br>
