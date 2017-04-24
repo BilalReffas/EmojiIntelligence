@@ -1,10 +1,13 @@
 # EmojiIntelligence 
-
+Do you want to teach your machine emojis? 😏
+<br>
+<br>
 I created a neural network entirely in Swift. This is a demo to demonstrate what is possible to solve.
 <br>
 I used the Playground on macOS. 
 <br>
 I believe in open source I think to push humanity forward you have to open source all the things \o/
+![](http://imgur.com/E3xznxU.png)
 
 ![](http://i.imgur.com/qhweGhT.gif)
 <br>
