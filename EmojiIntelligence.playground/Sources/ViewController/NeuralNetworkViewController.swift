@@ -309,16 +309,16 @@ extension NeuralNetworkViewController {
 
 extension NeuralNetworkViewController {
     
-    func teachSectionPressed(_ button: UIButton) {
+    @objc func teachSectionPressed(_ button: UIButton) {
         self.emojiAnimationLabel.isHidden = true
         self.currentSection = .teach
     }
     
-    func playSectionPressed(_ button: UIButton) {
+    @objc func playSectionPressed(_ button: UIButton) {
         self.currentSection = .play
     }
     
-    func teachPressed(_ button: UIButton) {
+    @objc func teachPressed(_ button: UIButton) {
         self.teachButton.isHidden = true
         self.explainLabel.isHidden = false
         self.addNeuronData(input: self.returnImageBlock())
