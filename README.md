@@ -47,7 +47,7 @@ My main goal was to make neural network and machine learning more accessible and
 
   [@reffas_bilal](https://twitter.com/Reffas_Bilal)
   
-  [bilal@luubra.com]()
+  [bilalreffas@googlemail.com]()
   
 
 ### Credits
